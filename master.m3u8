@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://ok-nah.com/files/fcdab647a9b2c04d1b8acb1ae03a2f81/audio/audio_0"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Chinese",LANGUAGE="chi",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://ok-nah.com/files/fcdab647a9b2c04d1b8acb1ae03a2f81/audio/audio_1"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+https://ok-nah.com/files/fcdab647a9b2c04d1b8acb1ae03a2f81/1080/index
