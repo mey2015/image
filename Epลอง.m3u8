@@ -1,8 +1,9 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://s9m.terraquillart.space/v4/6s/my1dh/index-f1-a1.txt"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาจีน",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://s9m.terraquillart.space/v4/6s/my1dh/index-f1-a2.txt"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Thai",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://s9m.terraquillart.space/v4/6s/my1dh/index-f1-a1.txt"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Chinese",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://s9m.terraquillart.space/v4/6s/my1dh/index-f1-a2.txt"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=875462,RESOLUTION=1280x536,FRAME-RATE=24.000,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio0"
 https://s9m.terraquillart.space/v4/6s/my1dh/index-f1-v1.txt
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1714351,RESOLUTION=1920x804,FRAME-RATE=24.000,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio0"
 https://s9m.terraquillart.space/v4/6s/my1dh/index-f2-v1.txt
+
 
